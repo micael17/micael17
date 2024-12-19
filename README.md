@@ -15,3 +15,7 @@ I'm Interested in **React**, **Vue**, component-based architecture, dynamic anim
 - **TypeScript**
 - **React**
 - **CSS3 & TailwindCSS**
+
+## 🌱 Recently Project
+
+- [**Study With Me**](https://github.com/micael17/study-with-me)
