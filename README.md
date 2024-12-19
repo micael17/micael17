@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Web%20Developer&fontSize=90)
+
 # 👋 Hi, I'm Jihong Kim!
 
 I'm an aspiring **Frontend Developer** with a passion for creating interactive and user-friendly web applications. I'm continually learning and growing in the world of web development, and I'm excited to contribute to innovative projects.
