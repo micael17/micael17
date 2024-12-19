@@ -20,6 +20,9 @@ I'm Interested in **React**, **Vue**, component-based architecture, dynamic anim
 
 - [**Study With Me**](https://github.com/micael17/study-with-me)
 
+## ETC (Blog...)
+- [**Blog**](https://hatelovedevelop.tistory.com/)
+
 
 [![stats](https://github-readme-stats.vercel.app/api?username=micael17&rank_icon=github)](https://github.com/micael17/github-readme-stats)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micael17&layout=compact)
