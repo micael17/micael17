@@ -3,8 +3,6 @@
 I'm a **Frontend Developer** with a passion for building interactive and user-friendly web applications.    
 I'm Interested in **React**, **Vue**, component-based architecture, dynamic animations, and CSS.
 
----
-
 ## 🛠️ Tech Stack
 
 - **Strong:** TypeScript, Next.js
@@ -12,8 +10,6 @@ I'm Interested in **React**, **Vue**, component-based architecture, dynamic anim
 - **Tools:** Git, Jenkins, Nginx
 - **Others:** Zustand, Tanstack Query, HighChart, MSSQL, MariaDB
   
----
-
 ## 🌱 Currently Learning
 
 - **TypeScript**
