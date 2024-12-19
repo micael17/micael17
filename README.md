@@ -21,6 +21,7 @@ I'm Interested in **React**, **Vue**, component-based architecture, dynamic anim
 - [**Study With Me**](https://github.com/micael17/study-with-me)
 - [**GOD Calculator**](https://github.com/micael17/OLD_GOD_CALCULATOR)
 - [**What's In My Belly?**](https://github.com/micael17/wimb)
+- [**Trading Bot**](https://github.com/micael17/my-electron-app)
 
 ## 🌱 ETC (Blog...)
 - [**Blog**](https://hatelovedevelop.tistory.com/)
