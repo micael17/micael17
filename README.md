@@ -1,7 +1,5 @@
 ## 👋 Hello!
 
----
-
 I'm a **Frontend Developer** with a passion for building interactive and user-friendly web applications.    
 I'm Interested in **React**, **Vue**, component-based architecture, dynamic animations, and CSS.
 
