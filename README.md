@@ -20,7 +20,7 @@ I'm Interested in **React**, **Vue**, component-based architecture, dynamic anim
 
 - [**Study With Me**](https://github.com/micael17/study-with-me)
 
-## ETC (Blog...)
+## 🌱 ETC (Blog...)
 - [**Blog**](https://hatelovedevelop.tistory.com/)
 
 
